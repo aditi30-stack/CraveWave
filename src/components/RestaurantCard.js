@@ -7,7 +7,7 @@ export const RestaurantCard = ({menu}) => {
   const navigate = useNavigate();
 
 
-  if (menu.length === 0) {
+  if (!Array.isArray(menu) || menu.length === 0) {
     return (
       <div className="flex flex-wrap p-4 shrink-0 overflow-hidden">
         <div className="flex flex-wrap gap-4">
