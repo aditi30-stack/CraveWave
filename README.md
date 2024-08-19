@@ -77,8 +77,19 @@ npm test
 or
 yarn test
 
-##Note:
+## Note:
 Swiggy Api keeps changing so while running, there might be some issues. Always use updated Swiggy Api.
 
 ## Contribution
 Contributions are welcome! If you'd like to improve CraveWave or add new features, feel free to fork the repository, create a new branch, and submit a pull request.
+
+
+## Sample Project
+
+
+
+
+
+
+https://github.com/user-attachments/assets/a1b0e714-7b60-4e33-9fcf-10ff332fa406
+
