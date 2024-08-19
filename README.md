@@ -3,13 +3,13 @@ CraveWave is a modern and responsive food delivery web application inspired by p
 
 Features:
 
-# Restaurant Listings: Explore a wide range of restaurants with detailed information, including ratings, locality, offers, and more, fetched directly from the Swiggy API.
-# Restaurant Details: View comprehensive details about each restaurant, such as ratings, location, menu options, and available discounts.
-# Cart Management: Easily add and remove items from your cart, with the total quantity displayed, making the ordering process simple and intuitive.
-# State Management with Redux Toolkit: Efficient state management ensures that data flows smoothly and is easily accessible throughout the application.
-# Custom React Hooks: Implement custom hooks to manage API data fetching, loading states, and other functionalities, promoting code reuse and separation of concerns.
-# Tailwind CSS for Styling: Tailwind CSS is used for building a stylish and modern UI, ensuring quick and maintainable styling.
-# React Router for Navigation: Seamlessly navigate through different pages of the application using React Router.
+ Restaurant Listings: Explore a wide range of restaurants with detailed information, including ratings, locality, offers, and more, fetched directly from the Swiggy API.
+ Restaurant Details: View comprehensive details about each restaurant, such as ratings, location, menu options, and available discounts.
+ Cart Management: Easily add and remove items from your cart, with the total quantity displayed, making the ordering process simple and intuitive.
+ State Management with Redux Toolkit: Efficient state management ensures that data flows smoothly and is easily accessible throughout the application.
+ Custom React Hooks: Implement custom hooks to manage API data fetching, loading states, and other functionalities, promoting code reuse and separation of concerns.
+ Tailwind CSS for Styling: Tailwind CSS is used for building a stylish and modern UI, ensuring quick and maintainable styling.
+ React Router for Navigation: Seamlessly navigate through different pages of the application using React Router.
 
 ## Technologies Used
 
@@ -76,6 +76,9 @@ yarn build
 npm test
 or
 yarn test
+
+##Note:
+Swiggy Api keeps changing so while running, there might be some issues. Always use updated Swiggy Api.
 
 ## Contribution
 Contributions are welcome! If you'd like to improve CraveWave or add new features, feel free to fork the repository, create a new branch, and submit a pull request.
